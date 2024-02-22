@@ -1,0 +1,5 @@
+volumeName: "dev"
+mountPath: "/dev"
+configMapName: "configmap-dev"
+varConfigMapName: "envdev"
+varName: "myenv"
